@@ -1,4 +1,5 @@
-# Note Taking App
+# Note Taking App - DONT USE THIS
+# IF YOU WANT TO USE IT, USE THE ORGINAL CODE THIS WAS FORKED FROM. THIS IS VERY UNSTABLE!
 
 <img src="https://cdn.discordapp.com/attachments/763074970887913522/975650501104377876/unknown.png"></img>
 
