@@ -11,4 +11,7 @@ docker -q prepare
 brew --package docker
 brew .dockerfile
 npm install
-npm start && npm run start-server && node bin/start.js
+npm start && npm run start-server && node {if} app.js {else} node version
+```
+
+# Dont try running the commands above, they WILL NOT work since they are modified sources
