@@ -9,8 +9,8 @@
 docker manage --s all
 docker - q install
 docker -q prepare
-brew --package docker
-brew .dockerfile
+choco/brew --package docker
+choco/brew .dockerfile
 npm install
 npm start && npm run start-server && node {if} app.js {else} node version
 ```
